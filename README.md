@@ -1,3 +1,4 @@
+# X-clone
 <div align="center">
   <img src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" alt="X Logo" width="80" />
   <h1>X (Twitter) Clone</h1>
@@ -15,8 +16,8 @@
 
 ## 🖥️ Overview  
 
-A clean, responsive **Twitter/X Clone** built using **Tailwind CSS**.  
-This project replicates the minimalist and elegant UI of X (formerly Twitter) — focusing on layout, responsiveness, and modern design practices.
+This project is a **static clone of the X (formerly Twitter) Home Page**, designed using **Tailwind CSS**.  
+It focuses on **layout, responsiveness, and design accuracy** — capturing the essence of the official X interface.
 
 ---
 
@@ -24,14 +25,14 @@ This project replicates the minimalist and elegant UI of X (formerly Twitter) �
 
 🔗 Live URL: https://x-tweet.netlify.app/
 
+
 ## 🚀 Features  
 
-- 📱 Fully responsive layout (mobile-first)  
-- 🎨 Built 100% with TailwindCSS utilities  
-- ⚡ Smooth hover transitions  
-- 🌙 Compatible with dark mode  
-- 🧩 Reusable & maintainable UI components  
-- 💻 Lightweight and fast-loading pages  
+- 📱 Fully responsive layout  
+- 🎨 Styled entirely with TailwindCSS utilities  
+- ⚡ Clean and minimal user interface  
+- 🧩 Structured for scalability (easy to add other pages later)  
+- 💻 Fast and lightweight design  
 
 ---
 
@@ -39,13 +40,10 @@ This project replicates the minimalist and elegant UI of X (formerly Twitter) �
 
 | Technology | Description |
 |-------------|-------------|
-| **HTML5** | Structure and markup |
+| **HTML5** | Page structure |
 | **Tailwind CSS** | Styling framework |
-| **JavaScript (optional)** | For future interactivity |
 | **Git & GitHub** | Version control and hosting |
 
 ---
 
-## 📂 Folder Structure  
 
-# X-clone
