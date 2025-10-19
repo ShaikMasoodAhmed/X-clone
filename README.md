@@ -8,7 +8,6 @@
     <img src="https://img.shields.io/badge/Made%20with-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss" />
     <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
     <img src="https://img.shields.io/badge/Responsive-Design-success?style=for-the-badge&logo=css3" />
-    <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
   </p>
 </div>
 
