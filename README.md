@@ -28,10 +28,11 @@ It focuses on **layout, responsiveness, and design accuracy** — capturing the 
 ## 🖼️ Screenshots  
 
 > 🏠 **Home Page View**  
-![Home Page Screenshot](Preview/Screenshot 2025-10-19 171848.png).
+![Home Page Screenshot](Preview/Screenshot%202025-10-19%20171848.png)
+
 
 > 📱 **Mobile View**  
-![Mobile Screenshot](Preview/Screenshot 2025-10-19 171848.png)
+![Mobile Screenshot](Preview/Screenshot%202025-10-19%20174023.png)
 
 > 💻 **Desktop View**  
 ![Desktop Screenshot](src/assets/images/desktop-view.png)
