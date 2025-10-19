@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="//abs.twimg.com/favicons/twitter.3.ico" alt="X Logo" width="80" />
+  <img src="[//abs.twimg.com/favicons/twitter.3.ico](https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png)" alt="X Logo" width="80" />
   <h1>X (Twitter) Clone</h1>
   <p>A modern and responsive Twitter (X) clone built with <b>Tailwind CSS</b>.</p>
 
