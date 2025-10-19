@@ -25,6 +25,18 @@ It focuses on **layout, responsiveness, and design accuracy** — capturing the 
 🔗 Live URL: https://x-tweet.netlify.app/
 
 
+## 🖼️ Screenshots  
+
+> 🏠 **Home Page View**  
+![Home Page Screenshot](Preview/Screenshot 2025-10-19 171848.png).
+
+> 📱 **Mobile View**  
+![Mobile Screenshot](Preview/Screenshot 2025-10-19 171848.png)
+
+> 💻 **Desktop View**  
+![Desktop Screenshot](src/assets/images/desktop-view.png)
+
+
 ## 🚀 Features  
 
 - 📱 Fully responsive layout  
