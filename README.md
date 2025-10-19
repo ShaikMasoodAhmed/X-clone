@@ -20,6 +20,10 @@ This project replicates the minimalist and elegant UI of X (formerly Twitter) �
 
 ---
 
+🌐 Live Demo
+
+🔗 Live URL: https://x-tweet.netlify.app/
+
 ## 🚀 Features  
 
 - 📱 Fully responsive layout (mobile-first)  
