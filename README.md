@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="X Logo" width="80" />
-  <h1>🐦 X (Twitter) Clone</h1>
+  <img src="//abs.twimg.com/favicons/twitter.3.ico" alt="X Logo" width="80" />
+  <h1>X (Twitter) Clone</h1>
   <p>A modern and responsive Twitter (X) clone built with <b>Tailwind CSS</b>.</p>
 
   <p>
